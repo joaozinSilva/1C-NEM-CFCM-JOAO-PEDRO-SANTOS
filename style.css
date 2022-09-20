@@ -1,3 +1,15 @@
+.lista {
+   color: red;
+   font-size: 30;
+
+}
+
+.minhalista {
+   color: blue;
+   font-size: 40;
+   
+}
+
 #imagem {
    text-align: center;
 
